@@ -1,0 +1,2 @@
+# abpro
+abstract model inheritance
